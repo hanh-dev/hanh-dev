@@ -1,7 +1,5 @@
 # 🖐️ Hi there, I'm Hanh (Jay) 👋
 
-<!-- **hanh-dev/hanh-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
 💻 Full-Stack Developer  
 🔥 Passionate about **JavaScript**, **Node.js**, **React**, **Java**, **Spring Boot**  
 🛢️ Enjoy working with **PostgreSQL** & **MySQL**  
@@ -10,23 +8,16 @@
 
 ---
 
-## ⚙️ Tech I Love
+## ⚙️ Tech I Use
 
-### 🎯 Languages & Frameworks  
-![JavaScript](https://skillicons.dev/icons?i=js)  
-![Node.js](https://skillicons.dev/icons?i=nodejs)  
-![Java](https://skillicons.dev/icons?i=java)  
-![Spring Boot](https://skillicons.dev/icons?i=spring)
-
-### 🧩 Frontend  
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![React](https://skillicons.dev/icons?i=react)
-
-### 🗄️ Databases  
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)  
+![Java](https://skillicons.dev/icons?i=java)
+![Spring Boot](https://skillicons.dev/icons?i=spring)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
-
-### 🛠️ Tools  
-![Git](https://skillicons.dev/icons?i=git)  
+![Git](https://skillicons.dev/icons?i=git)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 
 ---
@@ -48,7 +39,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanh-dev&show_icons=true&theme=radical&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanh-dev&show_icons=true&theme=radical&hide_title=true)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hanh-dev&theme=radical)
 
 ---
