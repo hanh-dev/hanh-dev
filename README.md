@@ -1,6 +1,6 @@
 # 🖐️ Hi there, I'm Hanh (Jay) 👋
 
-💻 Full-Stack Developer  
+💻 Software Engineering 
 🔥 Passionate about **JavaScript**, **Node.js**, **React**, **Java**, **Spring Boot**  
 🛢️ Enjoy working with **PostgreSQL** & **MySQL**  
 📚 Learning English and always exploring new tech  
@@ -32,7 +32,6 @@
 
 ## 📫 Let's Connect
 
-- 📧 [Gmail](mailto:your.email@gmail.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/ho-van-hanh-4a9b63336)
+- 📧 [Gmail](mailto:your.email@gmail.com)  * 💼 [LinkedIn](https://linkedin.com/in/ho-van-hanh-4a9b63336)
 
 ![Profile views](https://komarev.com/ghpvc/?username=hanh-dev&color=orange)
