@@ -35,13 +35,4 @@
 - 📧 [Gmail](mailto:your.email@gmail.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/ho-van-hanh-4a9b63336)
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanh-dev&show_icons=true&theme=radical&hide_title=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hanh-dev&theme=radical)
-
----
-
 ![Profile views](https://komarev.com/ghpvc/?username=hanh-dev&color=orange)
