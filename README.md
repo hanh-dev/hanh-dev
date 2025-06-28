@@ -10,22 +10,36 @@
 
 ## ⚙️ Tech I Use
 
-<table>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50"/></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50"/></td>
-    <td><img src="https://skillicons.dev/icons?i=react" alt="React" width="50"/></td>
-    <td><img src="https://skillicons.dev/icons?i=java" alt="Java" width="50"/></td>
-    <td><img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="50"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="50"/></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50"/></td>
-    <td><img src="https://skillicons.dev/icons?i=git" alt="Git" width="50"/></td>
-    <td><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50"/></td>
-    <td></td>
-  </tr>
-</table>
+<p align="left">
+
+<!-- JavaScript -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript" style="animation: bounce 2s infinite"/>
+
+<!-- Node.js -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" title="Node.js"/>
+
+<!-- React (spinning) -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" title="React" style="animation: spin 4s linear infinite"/>
+
+<!-- Java -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java"/>
+
+<!-- Spring Boot -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" title="Spring Boot"/>
+
+<!-- PostgreSQL -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL"/>
+
+<!-- MySQL -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL"/>
+
+<!-- Git -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/>
+
+<!-- VS Code -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" title="VS Code"/>
+
+</p>
 ---
 
 ## 🚀 What I'm Up To
