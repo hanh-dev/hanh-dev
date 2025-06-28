@@ -1,50 +1,55 @@
-🖐️ Hi there, I'm Hanh (Jay) 👋
+# 🖐️ Hi there, I'm Hanh (Jay) 👋
 
 <!-- **hanh-dev/hanh-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 💻 Full-Stack Developer  
-🔥 Passionate about JavaScript, Node.js, React, Java, Spring Boot  
-🛢️ Love working with PostgreSQL & MySQL  
-📚 Always learning English & exploring new tech  
-🌱 Dreaming big, coding bigger  
+🔥 Passionate about **JavaScript**, **Node.js**, **React**, **Java**, **Spring Boot**  
+🛢️ Enjoy working with **PostgreSQL** & **MySQL**  
+📚 Learning English and always exploring new tech  
+🌱 Dreaming big, coding bigger
 
 ---
 
-### ⚙️ Tech I Love
+## ⚙️ Tech I Love
 
-🎯 **Languages & Frameworks**  
-<img src="https://skillicons.dev/icons?i=js,nodejs,java,spring" />
+### 🎯 Languages & Frameworks  
+![JavaScript](https://skillicons.dev/icons?i=js)  
+![Node.js](https://skillicons.dev/icons?i=nodejs)  
+![Java](https://skillicons.dev/icons?i=java)  
+![Spring Boot](https://skillicons.dev/icons?i=spring)
 
-🧩 **Frontend**  
-<img src="https://skillicons.dev/icons?i=react" />
+### 🧩 Frontend  
+![React](https://skillicons.dev/icons?i=react)
 
-🗄️ **Databases**  
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+### 🗄️ Databases  
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)  
+![MySQL](https://skillicons.dev/icons?i=mysql)
 
-🛠️ **Tools**  
-<img src="https://skillicons.dev/icons?i=git,vscode" />
-
----
-
-### 🚀 What I'm Up To
-
-- 🌱 Currently learning: **Cloud deployment & DevOps basics**
-- 🧠 Improving: **React patterns + Backend architecture**
-- 📖 Practicing English daily & building projects for fun
+### 🛠️ Tools  
+![Git](https://skillicons.dev/icons?i=git)  
+![VS Code](https://skillicons.dev/icons?i=vscode)
 
 ---
 
-### 📫 Let's Connect!
+## 🚀 What I'm Up To
 
-[📧 Gmail](mailto:your.email@gmail.com) • [💼 LinkedIn](https://linkedin.com/in/ho-van-hanh-4a9b63336)
+- 🌱 Learning **Cloud deployment & DevOps basics**
+- 🧠 Improving **React patterns** and **backend architecture**
+- 📖 Practicing English daily & building personal projects
 
 ---
 
-### 📊 GitHub Stats
+## 📫 Let's Connect
 
-<img src="https://github-readme-stats.vercel.app/api?username=hanh-dev&show_icons=true&theme=radical" height="160"/>
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hanh-dev&theme=radical" height="160"/>
+- 📧 [Gmail](mailto:your.email@gmail.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/ho-van-hanh-4a9b63336)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanh-dev&show_icons=true&theme=radical&hide_title=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hanh-dev&theme=radical)
 
 ---
 
