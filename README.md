@@ -10,16 +10,22 @@
 
 ## ⚙️ Tech I Use
 
-![JavaScript](https://skillicons.dev/icons?i=js)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![React](https://skillicons.dev/icons?i=react)
-![Java](https://skillicons.dev/icons?i=java)
-![Spring Boot](https://skillicons.dev/icons?i=spring)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![Git](https://skillicons.dev/icons?i=git)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50"/></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50"/></td>
+    <td><img src="https://skillicons.dev/icons?i=react" alt="React" width="50"/></td>
+    <td><img src="https://skillicons.dev/icons?i=java" alt="Java" width="50"/></td>
+    <td><img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="50"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="50"/></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50"/></td>
+    <td><img src="https://skillicons.dev/icons?i=git" alt="Git" width="50"/></td>
+    <td><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50"/></td>
+    <td></td>
+  </tr>
+</table>
 ---
 
 ## 🚀 What I'm Up To
