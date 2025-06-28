@@ -32,6 +32,6 @@
 
 ## 📫 Let's Connect
 
-- 📧 [Gmail](mailto:your.email@gmail.com)  * 💼 [LinkedIn](https://linkedin.com/in/ho-van-hanh-4a9b63336)
+- 📧 [Gmail](mailto:your.email@gmail.com)  - 💼 [LinkedIn](https://linkedin.com/in/ho-van-hanh-4a9b63336)
 
 ![Profile views](https://komarev.com/ghpvc/?username=hanh-dev&color=orange)
