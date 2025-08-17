@@ -50,6 +50,8 @@
 - 📖 Practicing English daily & building personal projects
 
 ---
+## Certificates
+- AWS certified developer associate 2025 (https://www.udemy.com/certificate/UC-af054f2d-3f26-4860-a721-82d625896958/)
 
 ## 📫 Let's Connect
 
